@@ -51,8 +51,13 @@
 .tablet-hide{
 	display: none;
 }
+}
+
 @media screen and (max-width: 767px){
 .bg-parralax{
 	background-position: unset;
+}
+.p-0-mobile{
+  padding: 0px !important;
 }
 }
